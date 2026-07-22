@@ -1,4 +1,4 @@
-# ElderCare AI
+# health care monitor
 
 An AI-powered frontend prototype designed for elderly care.
 
