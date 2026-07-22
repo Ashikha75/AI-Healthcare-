@@ -10,12 +10,4 @@ An AI-powered frontend prototype designed for elderly care.
 - User Profile
 
 ## Technologies Used
-- HTML
-- CSS
-- JavaScript
-
-## Future Scope
-- Gemini AI Integration
-- Firebase
-- IoT Health Monitoring
-- Voice Recognition
+- HTML CSS JavaScript
